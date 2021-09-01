@@ -1,7 +1,2 @@
-from TESTESTESTE import teste
-
-teste = input("digite algo")
-
-teste = s(teste.)
-
-print(object)
+from Unidade_Federativa import Class_Estados
+if Class_Estados
